@@ -1,0 +1,17 @@
+SMAP
+show_002dproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 show-product.jsp
+show-product.jsp
+*L
+5,22:54
+26:103,11
+27:114
+28,5:115,3
+33:130
+34,4:131,3
+38,3:143
+40,8:78
+*E
